@@ -2,4 +2,4 @@
 
 [![Top Langs](https://code002lover.vercel.app/api/top-langs/?username=Hempflingclub&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Hempflingclub&label=Views&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Hempflingclub&label=Views&color=blueviolet&style=for-the-badge)
